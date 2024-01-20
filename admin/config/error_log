@@ -1,0 +1,1 @@
+[14-Jul-2021 08:21:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/w7ektzlgbw6r/public_html/leads-management.selromsoft.in/config/database.php on line 7
